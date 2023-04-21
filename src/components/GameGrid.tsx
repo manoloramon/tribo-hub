@@ -4,7 +4,6 @@ import GameCard from './GameCard'
 import GameCardContainer from './GameCardContainer'
 import GameCardSkeleton from './GameCardSkeleton'
 import { Genre } from '../hooks/useGenres'
-import { Platform } from '../hooks/usPlatforms'
 import { GameQuery } from '../App'
 
 interface Props {
